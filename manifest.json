@@ -1,11 +1,11 @@
 {
-    "name": "vestia",
-    "short_name": "vestia",
+    "name": "Vestia — Tu armario inteligente",
+    "short_name": "Vestia",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F3EFFF",
+    "theme_color": "#6C4CE0",
+    "description": "Tu armario inteligente. Pruébate la ropa antes de ponértela y descubre qué ponerte cada día.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
